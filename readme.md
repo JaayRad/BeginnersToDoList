@@ -1,6 +1,6 @@
 # To - Do list JS App
 
-This list keep me focused to track my **goals**
+This list keeps me focused to track my **goals**
 
 
 ![Screenshot](Screenshot.png)
@@ -14,4 +14,4 @@ git clone git@github.com:JaayRad/ToDo-List.git
 
 Here ya go! 
 
-URL: https://dynamic-sunflower-25412d.netlify.app/
+URL: https://todolistofjakub.netlify.app/
